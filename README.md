@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/regianembrito](https://github.com/regianembrito)
 
-- 💬 Ask me about **backend development**
+- 💬 Ask me about **data science and backend development**
 
 - 📫 How to reach me **regianembrito@gmail.com**
 
