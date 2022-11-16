@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=regianembrito" alt="regianembrito" /> </p>
 
-- 🔭 I’m currently working on [everis](https://www.everis.com/brazil/pt-br/home-br)
+- 🔭 I’m currently working on [iti/itau unibanco](https://conta.iti.itau/)
 
 - 🌱 I’m currently learning **Data Science, Machine Learning**
 
