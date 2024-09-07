@@ -23,7 +23,7 @@
 
 <p align="center">
 <a href="https://twitter.com/@regiane_andrade" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@regiane_andrade" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/regianembrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="regianembrito" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/regianembrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@13.7.0/icons/linkedin.svg" alt="regianembrito" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/13471053" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13471053" height="30" width="30" /></a>
 <a href="https://kaggle.com/regianemartinsbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="regianemartinsbrito" height="30" width="30" /></a>
 <a href="https://fb.com/martins.regiane.silva" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="martins.regiane.silva" height="30" width="30" /></a>
