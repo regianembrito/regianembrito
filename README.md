@@ -5,15 +5,11 @@
 
 - 🔭 I’m currently working on [iti/itau unibanco](https://conta.iti.itau/)
 
-- 🌱 I’m currently learning **Data Analytics**
-
-- 👯 I’m looking to collaborate on **Data Analysis at Itau**
-
-- 🤝 I’m looking for help with **Health Data Science**
+- 👯 I’m looking to collaborate on impact initiatives
 
 - 👨‍💻 All of my projects are available at [https://github.com/regianembrito](https://github.com/regianembrito)
 
-- 💬 Ask me about **data analytics and backend development**
+- 💬 Ask me about **backend development**
 
 - 📫 How to reach me **regianembrito@gmail.com**
 
